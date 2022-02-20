@@ -1,0 +1,23 @@
+{
+  "name": "PeachFinanceAssessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekash/PeachFinance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekash/PeachFinance/issues"
+  },
+  "homepage": "https://github.com/alekash/PeachFinance#readme",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
